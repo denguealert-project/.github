@@ -33,12 +33,12 @@ Para entrar em contato, use o e-mail [contato.denguealert@gmail.com](mailto:cont
 
 O sucesso do DengueAlert é resultado do esforço coletivo de desenvolvedores e pesquisadores comprometidos com a criação de uma ferramenta acessível e útil:
 
-| Nome | Função | GitHub | Participação |
-| :--- | :--- | :--- | :--- |
-| **[Phd. Márcio Andrey Teixeira](https://www.linkedin.com/in/marcio-andrey-teixeira/)** | Coordenador | | 2024 - atual |
-| **Dr. Eduardo Rogerio Malaquias Chagas** | Especialista Médico | | 2024 - atual |
-| **[Gabriel Veloso Ferro de Lima](https://www.linkedin.com/in/gabrielvfdelima/)** | Desenvolvedor | [@gabrielvfdelima] | 2025 - atual |
-| **[Thais Jellmayer Martins Gonçalves](https://www.linkedin.com/in/thaismjellmayer/)** | Desenvolvedor | [@Jellmayer] | 2025 - atual |
-| **Gabriel Ribeiro de Lima** | Desenvolvedor | | 2024 - atual |
-| **Gabriel Luiz de Oliveira** | Desenvolvedor | [@Luiz2077] | 2025 - atual |
-| **Diulia Vitória Faria Ribeiro** | Desenvolvedor | [@DiuRib04] | 2024 - 2026 |
+| Nome | Função  | Participação |
+| :--- | :--- | :--- |
+| **[Phd. Márcio Andrey Teixeira](https://www.linkedin.com/in/marcio-andrey-teixeira/)** | Coordenador | 2024 - atual |
+| **Dr. Eduardo Rogerio Malaquias Chagas** | Especialista Médico | 2024 - atual |
+| **[Gabriel Veloso Ferro de Lima](https://www.linkedin.com/in/gabrielvfdelima/)** | Desenvolvedor | 2025 - atual |
+| **[Thais Jellmayer Martins Gonçalves](https://www.linkedin.com/in/thaismjellmayer/)** | Desenvolvedor | 2025 - atual |
+| **Gabriel Ribeiro de Lima** | Desenvolvedor | 2024 - atual |
+| **Gabriel Luiz de Oliveira** | Desenvolvedor | 2025 - atual |
+| **Diulia Vitória Faria Ribeiro** | Desenvolvedor | 2024 - 2026 |
